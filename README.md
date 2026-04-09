@@ -2,7 +2,7 @@
 
 ## Usage
 
-\`\`\`bash
+```bash
 python run_gumbel.py \
   --do_train \
   --do_valid \
@@ -25,7 +25,7 @@ python run_gumbel.py \
   --valid_steps=10000 \
   -b=400 \
   -dr
-\`\`\`
+```
 
 ## Acknowledgements
 
