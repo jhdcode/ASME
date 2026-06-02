@@ -1,4 +1,5 @@
 # Adaptive Structural Modality Enhancement in Score Calculation for Knowledge Graph Completion
+This is the code of the paper **Adaptive Structural Modality Enhancement in Score Calculation for Knowledge Graph Completion**  for DEXA2026.
 
 ## Usage
 
